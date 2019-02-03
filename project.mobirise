@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "Mémo PCA Live - le site",
     "theme": {
       "name": "mobirise3",
@@ -289,7 +289,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>"
         },
         {
           "_name": "footer1",
@@ -434,63 +434,6 @@
           ],
           "_name": "slider3",
           "_anchor": "slider3-f"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": false,
-            "labelsColor": "#000000",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1690x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#cccccc",
-            "overlayOpacity": "0.6"
-          },
-          "title": "Nous contacter",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER</a>",
-          "form": {
-            "action": "rpca.cpam-toulouse@assurance-maladie.Fr",
-            "alerts": {
-              "success": "Merci pour votre message"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nom*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Adresse mail*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Votre message"
-              }
-            }
-          },
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-p",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#000000"
-            }
-          }
         }
       ]
     },
@@ -597,7 +540,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>",
           "_anchor": "menu-7"
         },
         {
@@ -960,8 +903,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Pour tester l'application mobile, il est possible de télécharger une version démo sur Android <a href=\"page6.html\">ici</a>.</p><p>L'installation en production nécessite une configuration de votre annuaire et mémo d'appel, ainsi qu'une bibliothèque de document.</p><p>Vous serez assisté et accompagné pour paramétrer l'environnement pour une utilisation en production.</p>",
-          "text2": "<p>Pour déployer l'application, il faut faire l'inventaire de son parc de smartphone (android V5 et supérieur et Ios 7 et supérieur). Il nous sera nécessaire d'avoir le n° UDID de chaque téléphone Ios pour des raisons de sécurité Apple. La SNPCA et le fournisseur feront l'assistance et l'inscription des smartphones.</p>",
+          "text1": "<p>Pour tester l'application mobile, il suffit de l'installer via les stores Google ou iOs. Un code permet d'accéder à une démo avec des données fictives&nbsp;<a href=\"page6.html\">ici</a>.</p><p><br></p><p>L'installation en production nécessite une configuration de votre annuaire et mémo d'appel, ainsi qu'une bibliothèque de document.</p>",
+          "text2": "<p>Vous serez assisté et accompagné pour paramétrer l'environnement pour une utilisation en production.</p><p><br></p><p>Pour déployer l'application, la SNPCA et le fournisseur feront l'assistance et le suivi des demandes.</p>",
           "_tags": [
             "Thème"
           ],
@@ -1074,7 +1017,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>"
         },
         {
           "_name": "footer1",
@@ -1398,7 +1341,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>"
         },
         {
           "_name": "footer1",
@@ -1590,7 +1533,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Accueil</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">App PCA Live</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Les fonctionnalités</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://h5p.org/node/263297\" target=\"_blank\">Guide utilisateur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-17\" aria-expanded=\"false\">Préparation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Télécharger</a></li>",
           "_anchor": "menu-d"
         },
         {
@@ -1599,7 +1542,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Pour tester l'application, un environnement de démonstration est accessible pour Android en version 5 et supérieur.</p><p>Cliquer sur le bontion \"Pour Google Android\". Vous pourrez transférer l'adresse web sur votre smartphone, soit utiliser le QR code:<img src=\"data:image/png;base64,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\" style=\"width: 256px;\"></p><p>Pour lancer la démo, le code caisse est 119901 puis 0602030405.</p><p></p>",
+          "text": "<p>Pour tester l'application, un environnement de démonstration est accessible pour:</p><p> Android en version 5 et supérieur ou iOs 9 et supérieur.</p><p>Cliquer sur le bontion adapté à votre mobile.&nbsp;</p><p>Pour accéder à la démo, le code caisse est 119901 puis 0602030405.</p><p></p>",
           "_tags": [
             "Thème"
           ],
@@ -1617,7 +1560,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://rink.hockeyapp.net/apps/83a898e816e24230bdf034fb4b7df3c6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pour Google Android</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://play.google.com/store/apps/details?id=fr.gouv.cpampca\" data-toolbar=\"-mbrBtnMove\">Pour Google Play store</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://itunes.apple.com/fr/app/cpam-pca-live/id1438130902?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pour Apple App Store</a> ",
           "_tags": [
             "Thème"
           ],
